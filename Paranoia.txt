@@ -1,0 +1,12 @@
+"Gamemode"
+{
+	"base"		"base"
+	"title"		"Paranoia"
+	"maps"		"^gg_"
+	"menusystem"	"1"
+	"workshopid"	""
+
+	"settings"
+	{
+	}
+{
